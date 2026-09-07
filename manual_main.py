@@ -30,28 +30,28 @@ RECIPIENT_EMAIL = os.environ.get("RECIPIENT_EMAIL", "").strip()
 
 MY_NEWS_LIST = [
     {
-        "region": "서울",
-        "title": "서울시, 행정 AI 개발까지 원스톱 지원…'서울AI브리지' 가동",
-        "link": "https://www.news1.kr/local/seoul/6281400",
-        "source": "뉴스1"
+        "region": "[지역]",
+        "title": "[제목]",
+        "link": "[링크]",
+        "source": "[언론사]"
     },
     {
-        "region": "부산",
-        "title": "부산시교육청, 일본 교육계와 'AI 미래교육' 교류…10일 방문단 방한",
-        "link": "https://www.news1.kr/local/busan-gyeongnam/6281801",
-        "source": "뉴스1"
+        "region": "[지역]",
+        "title": "[제목]",
+        "link": "[링크]",
+        "source": "[언론사]"
     },
     {
-        "region": "전라북도",
-        "title": "'지역 주도형 성장' 전북IT산업협·원광대, AX 실행체계 가동",
-        "link": "https://www.newsis.com/view/NISX20260904_0003776734",
-        "source": "뉴시스"
+        "region": "[지역]",
+        "title": "[제목]",
+        "link": "[링크]",
+        "source": "[언론사]"
     },
     {
-        "region": "전라남도",
-        "title": "퍼시피코에너지, 전남 해상풍력에 조 단위 투자…반도체·AI 겨냥",
-        "link": "https://www.newsis.com/view/NISX20260904_0003776780",
-        "source": "뉴시스"
+        "region": "[지역]",
+        "title": "[제목]",
+        "link": "[링크]",
+        "source": "[언론사]"
     },
     {
         "region": "[지역]",
