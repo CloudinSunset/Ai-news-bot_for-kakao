@@ -30,34 +30,34 @@ RECIPIENT_EMAIL = os.environ.get("RECIPIENT_EMAIL", "").strip()
 
 MY_NEWS_LIST = [
     {
-        "region": "[지역]",
-        "title": "[제목]",
-        "link": "[링크]",
-        "source": "[언론사]"
+        "region": "부산",
+        "title": "부산대, 121억원 규모 ‘AI스타펠로우십’ 선정… 의료 AI 개발 나선다",
+        "link": "http://www.asiae.co.kr/news/view.htm?idxno=2026090808313750965",
+        "source": "아시아경제"
     },
     {
-        "region": "[지역]",
-        "title": "[제목]",
-        "link": "[링크]",
-        "source": "[언론사]"
+        "region": "대구",
+        "title": "대구대, 국가 사이버 안보 AI 파운데이션 개발 참여",
+        "link": "https://www.newsis.com/view/NISX20260908_0003780239",
+        "source": "뉴시스"
     },
     {
-        "region": "[지역]",
-        "title": "[제목]",
-        "link": "[링크]",
-        "source": "[언론사]"
+        "region": "대전",
+        "title": "KT·KAIST·다임리서치, 피지컬 AI로 '다크팩토리' 구현 추진",
+        "link": "https://www.mt.co.kr/tech/2026/09/08/2026090809161790562",
+        "source": "머니투데이"
     },
     {
-        "region": "[지역]",
-        "title": "[제목]",
-        "link": "[링크]",
-        "source": "[언론사]"
+        "region": "충청남도",
+        "title": "충남대, 110억 원 규모 ‘피지컬 AI’ 대형 프로젝트 시동",
+        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1098215",
+        "source": "충청매일"
     },
     {
-        "region": "[지역]",
-        "title": "[제목]",
-        "link": "[링크]",
-        "source": "[언론사]"
+        "region": "전라남도",
+        "title": "켄텍, 110억 투입해 차세대 ‘에너지 AI’ 개발",
+        "link": "https://www.mk.co.kr/news/society/12145796",
+        "source": "매일경제"
     },
     {
         "region": "[지역]",
