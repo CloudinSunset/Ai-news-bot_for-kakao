@@ -30,28 +30,28 @@ RECIPIENT_EMAIL = os.environ.get("RECIPIENT_EMAIL", "").strip()
 
 MY_NEWS_LIST = [
     {
-        "region": "대전",
-        "title": "대전시, 인공지능 기반 도시 안전 모형 개발 나서",
-        "link": "https://v.daum.net/v/qxiVJwMVDA",
-        "source": "대전일보"
+        "region": "[지역]",
+        "title": "[제목]",
+        "link": "[링크]",
+        "source": "[언론사]"
     },
     {
-        "region": "경기도",
-        "title": "정부, 원주·천안아산·새만금·광주에 'K-AI 시티' 조성한다",
-        "link": "https://www.newsis.com/view/NISX20260908_0003781405",
-        "source": "뉴시스"
+        "region": "[지역]",
+        "title": "[제목]",
+        "link": "[링크]",
+        "source": "[언론사]"
     },
     {
-        "region": "충청남도",
-        "title": "충남도, 당진에 'AI 데이터센터' 유치…1.2조 규모",
-        "link": "https://www.mt.co.kr/policy/2026/09/09/2026090910010567666",
-        "source": "머니투데이"
+        "region": "[지역]",
+        "title": "[제목]",
+        "link": "[링크]",
+        "source": "[언론사]"
     },
     {
-        "region": "경상북도",
-        "title": "경북도, 성장엔진 인재양성·공유대학 사업 국비 최대 960억 확보",
-        "link": "https://www.metroseoul.co.kr/article/20260908500496",
-        "source": "메트로"
+        "region": "[지역]",
+        "title": "[제목]",
+        "link": "[링크]",
+        "source": "[언론사]"
     },
     {
         "region": "[지역]",
